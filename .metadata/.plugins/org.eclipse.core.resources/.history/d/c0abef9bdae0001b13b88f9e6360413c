@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.cognizant.loan.model;
+
+/**
+ * @author whoami
+ *
+ */
+public class Loan {
+
+}

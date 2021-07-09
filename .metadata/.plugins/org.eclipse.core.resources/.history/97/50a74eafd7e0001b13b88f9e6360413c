@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.cognizant.account.model;
+
+import lombok.Data;
+
+/**
+ * @author whoami
+ *
+ */
+@Data
+public class Account {
+	
+	private String accountNumber;
+	private String type;
+	private Double balance;
+}

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.cognizant.account.service;
+
+/**
+ * @author whoami
+ *
+ */
+public interface IAccountService {
+
+}

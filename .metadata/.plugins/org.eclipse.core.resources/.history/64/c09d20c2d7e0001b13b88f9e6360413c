@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package com.cognizant.account.service;
+
+import com.cognizant.account.model.Account;
+
+/**
+ * @author whoami
+ *
+ */
+public interface IAccountService {
+	
+	public Account getAccountNumber() {
+		return new Account("00987987973432","savings",234343)
+	}
+}

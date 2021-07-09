@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.cognizant.loan.controller;
+
+/**
+ * @author whoami
+ *
+ */
+public class LoanController {
+
+}

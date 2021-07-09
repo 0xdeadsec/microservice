@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.cognizant.loan.service;
+
+/**
+ * @author whoami
+ *
+ */
+public class LoanServiceImpl {
+
+}

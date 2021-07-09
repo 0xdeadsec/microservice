@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.cognizant.zuulgateway;
+
+/**
+ * @author whoami
+ *
+ */
+public class SimpleFilter {
+
+}
